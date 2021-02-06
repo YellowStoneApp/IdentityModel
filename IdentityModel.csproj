@@ -3,10 +3,12 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <PackageId>ShoutIdentityModel</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.2</Version>
     <Authors>Ryan Barnes</Authors>
     <Company>Shout</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/YellowStoneAPP/IdentityModel</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
